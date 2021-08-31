@@ -1,0 +1,12 @@
+build/
+*.swp
+*.pdb
+*.swo
+*~
+*.pyc
+*.dll
+*.exp
+*.lib
+*.obj
+*.exe
+*/bin/*
